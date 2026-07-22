@@ -85,3 +85,15 @@ src/
 supabase/
   schema.sql         full schema with RLS
 ```
+
+## Acknowledgments
+
+Parts of this project were built with the assistance of AI tools. AI helped in the following areas:
+
+- **Scaffolding and boilerplate** — generating initial component structure, TypeScript types, and repetitive setup code.
+- **Supabase schema and RLS** — drafting the SQL schema, indexes, triggers, and Row Level Security policies, which I then reviewed and adjusted.
+- **Drag-and-drop logic** — working through the reorder and cross-column status-update behavior.
+- **Debugging** — diagnosing state and optimistic-update issues in `useBoard.ts` and edge cases in filtering.
+- **Documentation** — drafting and organizing parts of this README.
+
+All AI-generated code was reviewed, tested, and modified by me before being included. Design decisions, the overall architecture, and final implementation choices are my own.
