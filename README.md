@@ -2,7 +2,7 @@
 
 A Kanban board with drag-and-drop, guest accounts, team assignments, comments, and per-task activity history. React + TypeScript on the front, Supabase for data and auth.
 
-**Live demo:** _add your deployed URL here_
+**Live demo:** https://taskboard-qm5gph3kk-marcusher.vercel.app/
 
 ## Features
 
